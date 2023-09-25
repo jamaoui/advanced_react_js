@@ -1,4 +1,3 @@
-
 ## Videos
 To watch the videos on YouTube click here:
 - [React.js Pro: Advanced Concepts and Best Practices](https://www.youtube.com/playlist?list=PLm_sigBWSRY1wOjD4O8vAmZsOf2QdILSI)
@@ -13,4 +12,3 @@ To download the code for other videos click here :
 - [LinkedIn](https://www.linkedin.com/in/jamaoui/)
 - [Facebook](https://facebook.com/mouad.jamaaoui/)
 - [Twitter](https://twitter.com/jamaouimouad)
-  
