@@ -28,7 +28,7 @@ function TodoForm({isUpdate = false}) {
             const todo = new TodoModel(data.title, data.completed, data.id)
             TodoApi.update(todo).then(window.history.back())
         } else {
-            TodoApi.create(todo).then(window.history.back())
+            TodoApi.create(todo)
         }
 
     }

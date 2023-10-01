@@ -7,8 +7,7 @@ export default {
     },
     // / [GET]
     getAll: async () => {
-        const data = await customAxios.get('/')
-        return data.data
+        return await customAxios.get('/')
     },
     // / [POST]
     create: async (todo) => {

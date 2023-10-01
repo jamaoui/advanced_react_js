@@ -9,16 +9,6 @@
       "id": 2,
       "title": "React js",
       "completed": true
-    },
-    {
-      "id": 3,
-      "title": "Next.js",
-      "completed": false
-    },
-    {
-      "id": 5,
-      "title": "React-query",
-      "completed": false
     }
   ]
 }

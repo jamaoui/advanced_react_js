@@ -8,9 +8,6 @@ function Layout() {
                     <li className="nav-item">
                         <Link to={'/'} className="nav-link">List</Link>
                     </li>
-                    <li className="nav-item">
-                        <Link to={'/todo/create'} className="nav-link">Create</Link>
-                    </li>
                 </ul>
             </nav>
 
