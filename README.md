@@ -6,4 +6,5 @@ Currently, here is the available code:
 - [3- Mastering React Hook Form: Building Powerful Forms](https://github.com/jamaoui/advanced_react_js/tree/3_react_hook_form)
 - [4- Axios vs Fetch API](https://github.com/jamaoui/advanced_react_js/tree/4_axios_vs_fetch_api)
 - [5- Todo App created with Axios and react hook form](https://github.com/jamaoui/advanced_react_js/tree/5_axios_crud_app)
+- [6- Todo App created with Axios and react query](https://github.com/jamaoui/advanced_react_js/tree/6_react_query)
 
