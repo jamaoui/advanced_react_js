@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "title": "Laravel",
+      "content": "Learn laravel with Jamaoui",
+      "id": 3
+    },
+    {
+      "title": "NextJs",
+      "content": "Learn NextJs",
+      "id": 4
+    },
+    {
+      "title": "Angular",
+      "content": "Learn Angular",
+      "id": 5
+    },
+    {
+      "title": "CSS 3",
+      "content": "Learn css",
+      "date": "2023-10-07T21:33:22.394Z",
+      "id": 6
+    },
+    {
+      "title": "html5",
+      "content": "learn html5",
+      "date": "2023-10-07T21:51:47.004Z",
+      "id": 7
+    },
+    {
+      "title": "MongoDb",
+      "content": "",
+      "date": "2023-10-07T22:05:42.827Z",
+      "id": 8
+    }
+  ]
+}
