@@ -1715,6 +1715,11 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
+use-custom-hooks@^1.10.2:
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/use-custom-hooks/-/use-custom-hooks-1.10.2.tgz#a827a310bafb6fdff8cc99caa04b198bcb2c5afb"
+  integrity sha512-kpXkofSUqekLn4OZd+XtwGRytJnxBb4QBTuxZLJycawLXVhabzsAOxUA3Z5OUMPgTMvYNOM9AOklD9YXaDggtA==
+
 vite@^4.4.5:
   version "4.4.9"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.4.9.tgz#1402423f1a2f8d66fd8d15e351127c7236d29d3d"
